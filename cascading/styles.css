@@ -5,3 +5,6 @@
 .friends {
     left: 5cm;
 }
+hr {
+    border-top: 1px dashed #8c8b8b; 
+}
